@@ -1,8 +1,23 @@
-# alarmmanagement
-alarm management appplication demo
-first step
-use vue, element-ui, echarts now, other techs will be added when necessary.
-use asp.net web-api as backend service.
+# aasweb
 
+> A Vue.js project
 
-in readme-edit branch
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+small demo
